@@ -1,0 +1,13 @@
+{ "greeting" : "Welcome to the Calculator!\n=> Give me any two numbers, and I'll help you add, subtract, multiply, or divide them.",
+  "firstNumber" : "What is the first number?",
+  "invalidNumber" : "Hmm... that doesn't look like a valid number.",
+  "secondNumber" : "Great! What is the second number?",
+  "operation" : "What operation would you like to preform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+  "invalidOperation" : "Must choose 1, 2, 3, or 4",
+  "divideByZero" : "Sorry, but I'm not allowed to divide by Zero.",
+  "result" : "The result is:",
+  "again" : "Would you like to calculate anything else?",
+  "notYesOrNo" :"Sorry, but you'll have to enter either yes or no.",
+  "thanks" : "Thank you for using the Calculator!",
+  "moreMath" : "Great! Let's do some more math." 
+}
